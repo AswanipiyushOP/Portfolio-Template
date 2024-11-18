@@ -35,9 +35,8 @@
 ## ⚡ **Get Started in Minutes**  
 
 1. **Clone the Repository**:  
-   ```bash  
-  [**https://github.com/AswanipiyushOP/Portfolio-Template.git**](#)
-   ```  
+   ```bash
+   git clone https://github.com/AswanipiyushOP/Portfolio-Template.git
 
 2. **Navigate to the Directory**:  
    ```bash  
