@@ -87,7 +87,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 💌 **Have questions or feedback? Reach out!**  
 - **Email**: [aswanipiyush1234@gmail.com]  
-- **GitHub**: [**Piyush Aswnai**](https://github.com/AswanipiyushOP))  
+- **GitHub**: [**Piyush Aswnai (https://github.com/AswanipiyushOP)**]
 
 ---
 
